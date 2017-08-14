@@ -1,2 +1,2 @@
 # Strip
-Power management tool to manage power-strips
+Power management tool to manage power-strips.
