@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#   Copyright 2017 Alex Krzos
+#   Copyright 2017 Joe Talerico
 #
 #   Licensed under the Apache License, Version 2.0 (the "License");
 #   you may not use this file except in compliance with the License.
